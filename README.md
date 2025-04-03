@@ -7,7 +7,7 @@
 [![bilibili](https://img.shields.io/badge/bilibili-Bbdolt-pink)](https://space.bilibili.com/1698476122)
 [![CSDN](https://img.shields.io/badge/CSDN-Bbdot-yellow)](https://blog.csdn.net/m0_73779708?type=blog)
 
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
+[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)[!(https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 ![](https://img.shields.io/badge/爱好-瞎折腾-red)
 
 </div>
